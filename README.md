@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Agentic Ai engineering**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-web-gules.vercel.app/](https://my-portfolio-web-gules.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://my-portfolio-web-gules.vercel.app/](https://portfolio-clone-seven.vercel.app/)
 
 - 💬 Ask me about **Next.js , React.js , Typescript , JavaScript**
 
